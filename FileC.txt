@@ -1,1 +1,3 @@
 FC pervaya str
+
+3-d str
